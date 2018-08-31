@@ -4,8 +4,8 @@
  */
 
 $(document).ready(function () {
-  $('[data-toggle="offcanvas"]').click(function () {
-    $('.offcanvas').toggleClass('active');
-    $('.footer').toggleClass('active');
+  $('[data-toggle="off-canvas"]').click(function () {
+    $('.off-canvas').toggleClass('off-canvas-active');
+    $('.footer').toggleClass('off-canvas-active');
   });
 });
