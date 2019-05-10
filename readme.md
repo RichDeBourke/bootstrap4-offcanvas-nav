@@ -2,11 +2,11 @@
 
 [Pascal Müller](https://github.com/trockendock) put together an off-canvas menu that can replace Bootstrap's standard drop-down menu for smaller screens (i.e. smartphones and tablets).
 
-This fork updates Pascal Müller's [offcanvas navigation](https://github.com/trockendock/bootstrap4-offcanvas-nav) from Bootstrap 4 - Alpha 6 to Bootstrap version 4.1.2.
+This fork updates Pascal Müller's [offcanvas navigation](https://github.com/trockendock/bootstrap4-offcanvas-nav) from Bootstrap 4 - Alpha 6 to Bootstrap version 4.1.2 (*Verified with version 4.3.1*).
 
 ## Built With
 
-* [Bootstrap 4.1.2](https://getbootstrap.com/)
+* [Bootstrap 4.1.2](https://getbootstrap.com/) *Verified with version 4.3.1*
 
 ## Changes to Pascal Müller's version
 
@@ -45,3 +45,7 @@ The demo is setup to switch between the navbar menu and the off-canvas menu at 7
 ## License
 
 This code is provided under an MIT License. See the [LICENSE](https://github.com/RichDeBourke/bootstrap4-offcanvas-nav/blob/master/LICENSE) file for details.
+
+## Updates
+
+**2019/05/10** – Validated the site works with jQuery 3.4.1 and Bootstrap 4.3.1.
