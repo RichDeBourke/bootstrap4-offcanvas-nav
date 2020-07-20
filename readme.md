@@ -51,3 +51,5 @@ This code is provided under an MIT License. See the [LICENSE](https://github.com
 **2019/05/10** – Validated the site works with jQuery 3.4.1 and Bootstrap 4.3.1.
 
 **2020/07/05** – Validated the site works with jQuery 3.5.1 and Bootstrap 4.5.0.
+
+**2020/07/20** – Add an `aria-expanded` attribute to the navbar-toggler button with JavaScript to set the attribute to true when the menu is expanded.
