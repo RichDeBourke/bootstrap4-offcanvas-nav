@@ -58,4 +58,4 @@ This code is provided under an MIT License. See the [LICENSE](https://github.com
 
 **2020/07/20** – Add an `aria-expanded` attribute to the navbar-toggler button with JavaScript to set the attribute to true when the menu is expanded.
 
-**2020/09/13** – Added an overlay that covers the body content while the menu is dislayed
+**2020/09/13** – Added an overlay that covers the body content while the menu is displayed
