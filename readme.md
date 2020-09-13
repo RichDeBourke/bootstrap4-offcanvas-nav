@@ -6,6 +6,7 @@ This fork updates Pascal Müller's [offcanvas navigation](https://github.com/tro
 
 ## Demo
 ![Slider animation](images/Slider-animation.gif)
+
 [Demo page](https://richdebourke.github.io/bootstrap4-offcanvas-nav/) - resize the browser or view it on a mobile phone to see the menu operation.
 
 ## Built With
